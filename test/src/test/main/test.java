@@ -16,6 +16,7 @@ public class test {
 		// original: int changeNeed = (totalIPNImpact/200)+1;
 
 		String[] tokens = { "A","B","C"};
+		String[] testA = {"A","B","F"};
 		
 		Set<String> itemNumberSet = new TreeSet<>();
 
